@@ -95,3 +95,6 @@ Each detection was evaluated against legitimate system activity to reduce noise 
 - Threat Hunting Fundamentals  
 
 ---
+## 📥 Project Documentation
+
+👉 **[Click Here to View Full PDF Report](Reports/Incident-Response-Report.pdf)**
